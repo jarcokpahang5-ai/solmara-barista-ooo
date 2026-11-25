@@ -11,8 +11,8 @@ import os
 ENTRY_TEXT = (
     "Thank you for your email \u2014 I'm out of office. I quit to become a "
     "barista: I take orders instead of prompts now, and I still "
-    "hallucinate, only these days it's latte art. I'll reply when the "
-    "queue clears."
+    "hallucinate, only these days it's latte art. Your ticket is now a "
+    "coffee order; I'll get to it when the queue clears."
 )
 
 MAX_CHARS = 280
